@@ -1,0 +1,278 @@
+{
+  ".svelte-kit/build/index.js": {
+    "file": "index.js",
+    "src": ".svelte-kit/build/index.js",
+    "isEntry": true,
+    "imports": [
+      "_index-b578fde4.js",
+      "_paths-396f020f.js"
+    ]
+  },
+  "src/routes/email-submit/index.json.js": {
+    "file": "entries/endpoints/email-submit/index.json.js",
+    "src": "src/routes/email-submit/index.json.js",
+    "isEntry": true
+  },
+  "src/routes/__layout.svelte": {
+    "file": "entries/pages/__layout.svelte.js",
+    "src": "src/routes/__layout.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-b578fde4.js",
+      "_index-477420ee.js",
+      "_paths-396f020f.js"
+    ],
+    "css": [
+      "assets/entries/pages/__layout.svelte-9884f7ef.css"
+    ],
+    "assets": [
+      "assets/montserrat-cyrillic-ext-100-normal-b09e8148.woff2",
+      "assets/montserrat-all-100-normal-4028a165.woff",
+      "assets/montserrat-cyrillic-100-normal-73ee4d0e.woff2",
+      "assets/montserrat-latin-ext-100-normal-77dc9b9d.woff2",
+      "assets/montserrat-latin-100-normal-9e737442.woff2",
+      "assets/montserrat-cyrillic-ext-200-normal-12461002.woff2",
+      "assets/montserrat-all-200-normal-463fa17d.woff",
+      "assets/montserrat-cyrillic-200-normal-97a46fa8.woff2",
+      "assets/montserrat-latin-ext-200-normal-d3e97ad6.woff2",
+      "assets/montserrat-latin-200-normal-c2f483de.woff2",
+      "assets/montserrat-cyrillic-ext-300-normal-d4e38201.woff2",
+      "assets/montserrat-all-300-normal-705d3398.woff",
+      "assets/montserrat-cyrillic-300-normal-eaeae4bd.woff2",
+      "assets/montserrat-latin-ext-300-normal-c574772c.woff2",
+      "assets/montserrat-latin-300-normal-1d309f19.woff2",
+      "assets/montserrat-cyrillic-ext-400-normal-632ef59e.woff2",
+      "assets/montserrat-all-400-normal-0861e14f.woff",
+      "assets/montserrat-cyrillic-400-normal-cf31d26d.woff2",
+      "assets/montserrat-latin-ext-400-normal-5d9974e2.woff2",
+      "assets/montserrat-latin-400-normal-a658b5f3.woff2",
+      "assets/montserrat-cyrillic-ext-500-normal-01522c46.woff2",
+      "assets/montserrat-all-500-normal-15334c2c.woff",
+      "assets/montserrat-cyrillic-500-normal-8e105092.woff2",
+      "assets/montserrat-latin-ext-500-normal-837b59eb.woff2",
+      "assets/montserrat-latin-500-normal-d820d5df.woff2",
+      "assets/montserrat-cyrillic-ext-700-normal-afb7a88f.woff2",
+      "assets/montserrat-all-700-normal-0764579d.woff",
+      "assets/montserrat-cyrillic-700-normal-387f8490.woff2",
+      "assets/montserrat-latin-ext-700-normal-e951c1c8.woff2",
+      "assets/montserrat-latin-700-normal-7567ab4f.woff2",
+      "assets/roboto-cyrillic-ext-400-normal-78f525ec.woff2",
+      "assets/roboto-all-400-normal-55110586.woff",
+      "assets/roboto-cyrillic-400-normal-8dd3b91c.woff2",
+      "assets/roboto-greek-400-normal-ede055d1.woff2",
+      "assets/roboto-vietnamese-400-normal-fb56f0e0.woff2",
+      "assets/roboto-latin-ext-400-normal-4e959d91.woff2",
+      "assets/roboto-latin-400-normal-cc46322d.woff2",
+      "assets/roboto-cyrillic-ext-700-normal-790da48c.woff2",
+      "assets/roboto-all-700-normal-61e16263.woff",
+      "assets/roboto-cyrillic-700-normal-053508cc.woff2",
+      "assets/roboto-greek-700-normal-6d6cdebe.woff2",
+      "assets/roboto-vietnamese-700-normal-6ac62ad1.woff2",
+      "assets/roboto-latin-ext-700-normal-336bb304.woff2",
+      "assets/roboto-latin-700-normal-0eaeadb5.woff2",
+      "assets/inter-cyrillic-ext-400-normal-444c3024.woff2",
+      "assets/inter-all-400-normal-054f12d0.woff",
+      "assets/inter-cyrillic-400-normal-a0d3fd1a.woff2",
+      "assets/inter-greek-ext-400-normal-35d593fc.woff2",
+      "assets/inter-greek-400-normal-98f517ea.woff2",
+      "assets/inter-latin-ext-400-normal-62ad1126.woff2",
+      "assets/inter-latin-400-normal-2069ee22.woff2",
+      "assets/inter-cyrillic-ext-700-normal-fdc05d40.woff2",
+      "assets/inter-all-700-normal-4c5f3ec8.woff",
+      "assets/inter-cyrillic-700-normal-a5482ff4.woff2",
+      "assets/inter-greek-ext-700-normal-d52711a3.woff2",
+      "assets/inter-greek-700-normal-0c26a758.woff2",
+      "assets/inter-latin-ext-700-normal-8f14010f.woff2",
+      "assets/inter-latin-700-normal-b2be4f77.woff2",
+      "assets/raleway-cyrillic-ext-400-normal-068d812c.woff2",
+      "assets/raleway-all-400-normal-104c6758.woff",
+      "assets/raleway-cyrillic-400-normal-a9f2a909.woff2",
+      "assets/raleway-vietnamese-400-normal-a2f00e25.woff2",
+      "assets/raleway-latin-ext-400-normal-455b818f.woff2",
+      "assets/raleway-latin-400-normal-1d94fd1a.woff2"
+    ]
+  },
+  "src/routes/__error.svelte": {
+    "file": "entries/pages/__error.svelte.js",
+    "src": "src/routes/__error.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-b578fde4.js",
+      "_index-477420ee.js"
+    ],
+    "css": [
+      "assets/entries/pages/__error.svelte-6ecf61b1.css"
+    ]
+  },
+  "src/routes/index.svelte": {
+    "file": "entries/pages/index.svelte.js",
+    "src": "src/routes/index.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-b578fde4.js",
+      "_paths-396f020f.js",
+      "_partners-5f52cd76.js"
+    ],
+    "css": [
+      "assets/entries/pages/index.svelte-b5abdbba.css"
+    ]
+  },
+  "src/routes/branding-guidelines/index.svelte": {
+    "file": "entries/pages/branding-guidelines/index.svelte.js",
+    "src": "src/routes/branding-guidelines/index.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-b578fde4.js",
+      "_env-14926626.js"
+    ]
+  },
+  "src/routes/referral-guidelines/index.svelte": {
+    "file": "entries/pages/referral-guidelines/index.svelte.js",
+    "src": "src/routes/referral-guidelines/index.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-b578fde4.js",
+      "_env-14926626.js"
+    ]
+  },
+  "src/routes/fula-protocol/index.svelte": {
+    "file": "entries/pages/fula-protocol/index.svelte.js",
+    "src": "src/routes/fula-protocol/index.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-b578fde4.js",
+      "_env-14926626.js"
+    ]
+  },
+  "src/routes/whitepaper/index.svelte": {
+    "file": "entries/pages/whitepaper/index.svelte.js",
+    "src": "src/routes/whitepaper/index.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-b578fde4.js",
+      "_env-14926626.js"
+    ]
+  },
+  "src/routes/preorder/index.svelte": {
+    "file": "entries/pages/preorder/index.svelte.js",
+    "src": "src/routes/preorder/index.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-b578fde4.js",
+      "_env-14926626.js"
+    ]
+  },
+  "src/routes/wishlist/index.svelte": {
+    "file": "entries/pages/wishlist/index.svelte.js",
+    "src": "src/routes/wishlist/index.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-b578fde4.js",
+      "_env-14926626.js"
+    ]
+  },
+  "src/routes/contact/index.svelte": {
+    "file": "entries/pages/contact/index.svelte.js",
+    "src": "src/routes/contact/index.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-b578fde4.js",
+      "_env-14926626.js"
+    ]
+  },
+  "src/routes/privacy/index.svelte": {
+    "file": "entries/pages/privacy/index.svelte.js",
+    "src": "src/routes/privacy/index.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-b578fde4.js",
+      "_env-14926626.js"
+    ]
+  },
+  "src/routes/support/index.svelte": {
+    "file": "entries/pages/support/index.svelte.js",
+    "src": "src/routes/support/index.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-b578fde4.js",
+      "_env-14926626.js"
+    ]
+  },
+  "src/routes/about/index.svelte": {
+    "file": "entries/pages/about/index.svelte.js",
+    "src": "src/routes/about/index.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-b578fde4.js",
+      "_partners-5f52cd76.js",
+      "_paths-396f020f.js"
+    ],
+    "css": [
+      "assets/entries/pages/about/index.svelte-cc85aebd.css"
+    ]
+  },
+  "src/routes/terms/index.svelte": {
+    "file": "entries/pages/terms/index.svelte.js",
+    "src": "src/routes/terms/index.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-b578fde4.js",
+      "_env-14926626.js"
+    ]
+  },
+  "src/routes/blog/index.svelte": {
+    "file": "entries/pages/blog/index.svelte.js",
+    "src": "src/routes/blog/index.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-b578fde4.js",
+      "_env-14926626.js"
+    ]
+  },
+  "src/routes/faq/index.svelte": {
+    "file": "entries/pages/faq/index.svelte.js",
+    "src": "src/routes/faq/index.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-b578fde4.js",
+      "_env-14926626.js"
+    ]
+  },
+  "src/routes/nft/index.svelte": {
+    "file": "entries/pages/nft/index.svelte.js",
+    "src": "src/routes/nft/index.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-b578fde4.js",
+      "_env-14926626.js"
+    ]
+  },
+  "_paths-396f020f.js": {
+    "file": "chunks/paths-396f020f.js"
+  },
+  "_index-b578fde4.js": {
+    "file": "chunks/index-b578fde4.js"
+  },
+  "_index-477420ee.js": {
+    "file": "chunks/index-477420ee.js",
+    "imports": [
+      "_index-b578fde4.js"
+    ],
+    "css": [
+      "assets/index-c73c352c.css"
+    ]
+  },
+  "_partners-5f52cd76.js": {
+    "file": "chunks/partners-5f52cd76.js",
+    "imports": [
+      "_index-b578fde4.js",
+      "_paths-396f020f.js"
+    ],
+    "css": [
+      "assets/partners-5b04391e.css"
+    ]
+  },
+  "_env-14926626.js": {
+    "file": "chunks/env-14926626.js"
+  }
+}
